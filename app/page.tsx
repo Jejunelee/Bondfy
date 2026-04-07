@@ -109,7 +109,7 @@ export default function HomePage() {
         <a href="#" className="flex items-center gap-2.5 no-underline" onClick={(e) => scrollToSection(e, 'home')}>
           <div className="w-8 h-8 relative">
             <Image 
-              src="/Logo.png" 
+              src="/Logo1.png" 
               alt="Bondfy Logo" 
               width={32} 
               height={32}
